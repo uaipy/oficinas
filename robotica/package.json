@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@serialport/parser-readline": "^13.0.0",
+    "axios": "^1.11.0",
+    "serialport": "^13.0.0"
+  }
+}
