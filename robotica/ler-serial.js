@@ -9,7 +9,7 @@
  * Configure via ENV or edit the CONFIG below:
  *   SERIAL_PORT=COM3 (or "auto" to auto-detect Arduino)
  *   SERIAL_BAUD=115200
- *   API_URL=http://127.0.0.1:8000/telemetry
+ *   API_URL=http://api.uaipy.com.br/ingest
  */
 
 const axios = require("axios");
